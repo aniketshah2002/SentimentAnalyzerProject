@@ -1,7 +1,6 @@
 # This project Sentiment Analyzer uses the "IMDB Dataset 50K movie reviews" from Kaggle. You can signup and donwload the dataset from the website.
-# Sentiment Analyzer Project
 
-![Project Banner or Screenshot]()
+# Sentiment Analyzer Project
 
 A robust sentiment analysis tool built to determine the emotional tone behind a body of text. This project can classify text as positive, negative, or neutral. It's perfect for analyzing customer feedback, social media comments, or any other text-based data.
 
