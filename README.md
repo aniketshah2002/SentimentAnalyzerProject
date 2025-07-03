@@ -128,15 +128,3 @@ To contribute:
 5.  Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
-
----
-
-## 📬 Contact
-
-[Your Name] - [@YourTwitterHandle] - [your-email@example.com]
-
-Project Link: [https://github.com/[your-github-username]/[your-repository-name]](https://github.com/[your-github-username]/[your-repository-name])
